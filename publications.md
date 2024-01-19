@@ -7,7 +7,7 @@ permalink: /publications/
 # Publications
 
 <!-- Add your publication content here -->
-1. **Title of Publication 1**
-   - *Authors:* John Doe, Jane Smith
-   - *Conference/Journal:* International Conference on XYZ
+1. **Scattering phase shifts from a quantum computer**
+   - *Authors:* Sanket Sharma, Thomas Papenbrock and Lucas Platter
+   - *Conference/Journal:* arXiv
    - *Year:* 2023
