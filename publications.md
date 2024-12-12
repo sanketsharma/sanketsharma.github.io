@@ -9,6 +9,6 @@ permalink: /publications/
 <!-- Add your publication content here -->
 1. **Scattering phase shifts from a quantum computer**
    - *Authors:* Sanket Sharma, Thomas Papenbrock and Lucas Platter
-   - *Conference/Journal:* Submitted to Physical Review C
-   - *Year:* 2023
-   - *URL:* [arXiv:2311.09298](https://arxiv.org/abs/2311.09298v1)
+   - *Conference/Journal:* Physical Review C
+   - *Year:* 2024
+   - *URL:* [PhysRevC.109.L061001](https://doi.org/10.1103/PhysRevC.109.L061001)
